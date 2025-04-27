@@ -1,1 +1,5 @@
-# quantum-computing-final
+Quantum Computation Final Project
+==================================
+Tristan Larkin
+
+
