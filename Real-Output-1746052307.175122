@@ -1,0 +1,2 @@
+Ground state energy from quantum computer: 3.8106723319170186
+result: PrimitiveResult([PubResult(data=DataBin(evs=np.ndarray(<shape=(1,), dtype=float64>), stds=np.ndarray(<shape=(1,), dtype=float64>), shape=(1,)), metadata={'target_precision': 0.015811388300841896, 'shots': 4001, 'circuit_metadata': {}})], metadata={'version': 2})
